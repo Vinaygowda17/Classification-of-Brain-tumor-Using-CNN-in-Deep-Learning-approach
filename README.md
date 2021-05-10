@@ -1,0 +1,2 @@
+# Classification-of-Brain-tumor-Using-CNN-in-Deep-Learning-approach
+This project is being done as a part of 1nd semester ME curriculum. The major objective of this project is to detect if the brain tumour is present or not by training the machine using pre-processed Magnetic resonance imaging (MRI) using Deep Learning. The segmentation, detection, and extraction of infected tumor area from magnetic resonance(MR) scan.We estimate the brain tumor severity using Convolutional Neural Network algorithm which gives us accurate results.
